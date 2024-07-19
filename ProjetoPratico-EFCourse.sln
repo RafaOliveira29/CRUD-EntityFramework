@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoPratico-EFCourse", "ProjetoPratico-EFCourse\ProjetoPratico-EFCourse.csproj", "{FD631420-354D-4282-9E1C-D8F9C54D64F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD631420-354D-4282-9E1C-D8F9C54D64F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD631420-354D-4282-9E1C-D8F9C54D64F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD631420-354D-4282-9E1C-D8F9C54D64F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD631420-354D-4282-9E1C-D8F9C54D64F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11850CB6-297F-473A-940F-41DEB079749E}
+	EndGlobalSection
+EndGlobal
